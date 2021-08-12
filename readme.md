@@ -51,7 +51,7 @@
 ```bash
 
 # Primeiramente clone este repositório
-$ git clone <https://github.com/lucaslc11/dt-money.git>
+$ git clone https://github.com/lucaslc11/dt-money.git
 
 # Vá até a pasta do projeto e instale as dependências
 $ yarn
