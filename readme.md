@@ -46,7 +46,7 @@
 
 <h1 id="usar">Como usar 🎲</h1>
 
-### Primeiramente você vai ter que ter instalado em seu computador o `git` e `yarn` ou `npm` para rodar a aplicação
+##### Primeiramente você vai ter que ter instalado em seu computador o `git` e `yarn` ou `npm` para rodar a aplicação
 
 ```bash
 
